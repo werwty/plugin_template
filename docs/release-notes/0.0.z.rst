@@ -1,0 +1,5 @@
+===============================
+pulp-python 0.0.1 Release Notes
+===============================
+
+plugin_template_name was created, and there was much rejoicing.
